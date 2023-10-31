@@ -1,0 +1,10 @@
+passo a passo para realizar testes unitarios usando jest
+
+1 - npm init
+2 - npm i jest --save-dev
+3 - criar um arquivo com as funções de para realizar o teste { index.js}
+4 - em seguida cirar um arquivo onde irá ficar os testes { nome-do-arquivo.test.js}
+5 - rodar o teste usando o comando npm jest
+
+
+* link da biblioteca https://jestjs.io/pt-BR/docs/getting-started
